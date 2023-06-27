@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <foo>
+    some data
+    <!-- some data2 -->
+    <!-- some data2 -->
+    some data
+  </foo>
+  <bar>
+    some data
+    <!-- some data2 -->
+    <!-- some data2 -->
+    some data
+  </bar>
+  <foobar>
+    some data
+    <!-- some data2 -->
+    <!-- some data2 -->
+    some data
+  </foobar>
+</root>
